@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\bin\Debug\AlperenPolat_19219046.exe.config
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\bin\Debug\AlperenPolat_19219046.exe
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\bin\Debug\AlperenPolat_19219046.pdb
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.Form1.resources
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.Properties.Resources.resources
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.exe
+C:\Users\alper\source\repos\AlperenPolat_19219046\AlperenPolat_19219046\obj\Debug\AlperenPolat_19219046.pdb
